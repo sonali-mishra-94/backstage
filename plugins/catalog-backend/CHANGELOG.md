@@ -1,5 +1,13 @@
 # @backstage/plugin-catalog-backend
 
+## 0.13.7
+
+### Patch Changes
+
+- ce17a1693: Allow the catalog search collator to filter the entities that it indexes
+- Updated dependencies
+  - @backstage/config@0.1.9
+
 ## 0.13.6
 
 ### Patch Changes
